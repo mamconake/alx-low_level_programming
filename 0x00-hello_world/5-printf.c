@@ -1,5 +1,9 @@
-#include<stdio.h>
-/**                                                                              * main - main function                                                          * Description: The function print some text to the stdout                       * Return: returns void                                                         */
+#include<stdio.h>                                   
+/**
+ * main -Entry point
+ * Description- prints out stdout
+ * return void
+ */
 int main(void)
 {
 		printf("with proper grammar, but the outcome is a piece of art,");
