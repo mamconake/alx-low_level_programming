@@ -1,4 +1,4 @@
-#include<stdio.h>                                   
+#include <stdio.h>                                   
 /**
  * main - main function
  * Description:The function prints some text to stdout
